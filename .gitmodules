@@ -1,0 +1,6 @@
+[submodule "05_MonteCarlo/Excercises"]
+	path = 05_MonteCarlo/Excercises
+	url = https://github.com/jromero-barrientos/hands_on_VR_CSC2026.git
+[submodule "08_Data-Bases/Excercises"]
+	path = 08_Data-Bases/Excercises
+	url = https://gitlab.cern.ch/CSC/csc-chile-2026-db-exercises
